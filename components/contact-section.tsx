@@ -10,14 +10,14 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "abdellah.recham@email.com",
-    href: "mailto:abdellah.recham@email.com",
+    value: "abdellah.recham@chemist.com",
+    href: "mailto:abdellah.recham@chemist.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+213 XXX XXX XXX",
-    href: "tel:+213XXXXXXXXX",
+    value: "+213 799 409 548",
+    href: "tel:+213799409548",
   },
   {
     icon: MapPin,
